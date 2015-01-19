@@ -1,5 +1,7 @@
 # OOP-Coursework
-Final Project Code for MPCS 51050
+Final Project Code for MPCS 51050 - Stock Trade Lifecycle in Messaging Queues
+
+There is a larger writeup explaining the Enterprise Integration Patterns (EIPs) and OO Design patterns as the final pdf.
 
 This project is written in Java and uses Apache Camel to send messages through a stock trade lifecycle.
 
